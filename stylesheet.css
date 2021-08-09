@@ -1,0 +1,44 @@
+body{
+	background: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+	background-position: center;
+}
+
+.name{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.name img{
+	border-radius: 60%;
+	height: 300px;
+	margin: 50px auto 0 auto;
+	box-shadow: 0 10px 25px rgba(0,0,0,0.4), 0 6px 6px rgba(0,0,0,0.2);
+}
+
+.name p{
+	font-family: 'Amiri', serif;
+	margin: 5px 0px 0px 0px;
+	font-size: 60px;
+}
+
+ul{
+	text-align: center;
+	margin: 15px 15px 0px 0px;
+	padding: 20px;
+}
+
+li{
+	display: inline;
+	margin: 5px 5px 0px 5px;
+	padding: 3px;
+}
+
+a{
+	color: white;
+}
+
+img{
+	height: 55px;
+	width: auto;
+}
